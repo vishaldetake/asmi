@@ -8,7 +8,7 @@ import com.android.volley.toolbox.Volley;
 
 /**
  * Created by Nilima on 05-09-2018.
- */
+ */    
 
 public class MySingletone {
     private  static MySingletone mInstance;
