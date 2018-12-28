@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685027694182",
+    "firebase_url": "https://asmi-d4a73.firebaseio.com",
+    "project_id": "asmi-d4a73",
+    "storage_bucket": "asmi-d4a73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685027694182:android:1f4039703d393bc2",
+        "android_client_info": {
+          "package_name": "syscryption.asmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685027694182-alg9570eksvkpq56f742dpq08jo5cbq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYgziXp_riGvqe8oX6wBD_JxD5XjR_-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
